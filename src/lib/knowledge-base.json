@@ -1,0 +1,235 @@
+{
+  "department": {
+    "name": "Department of Artificial Intelligence and Machine Learning",
+    "location": "Shavige Malleshwara Hills, 91st Main Rd, 1st Stage, Kumaraswamy Layout, Bengaluru, Karnataka 560078",
+    "principal": {
+      "name": "Dr. B G Prasad",
+      "position": "Principal, Dayananda Sagar College of Engineering",
+      "qualifications": ["Ph.D"],
+      "contact": "principal@dayanandasagar.edu"
+    },
+    "vision": "To provide progressive education and flourish student ingenuity to be successful professionals impacting society for a smarter and ethical world.",
+    "mission": [
+      "Adopt engaging teaching-learning process with emphasis on problem solving and programming skills",
+      "Promote additional skill development through enhanced and experiential learning",
+      "Collaborate with industries and professional bodies to make students industry ready",
+      "Encourage innovation through multi-disciplinary research and development activities",
+      "Imbibe human values and ethics in students to make them impact society as responsible professionals"
+    ]
+  },
+  "admissions": {
+    "eligibility": {
+      "education": {
+        "qualification": "12th standard or equivalent",
+        "subjects_required": ["Physics", "Mathematics", "English"],
+        "optional_subjects": ["Chemistry", "Biology", "Computer Science", "Electronics"]
+      },
+      "marks": {
+        "general": {
+          "percentage": "45%",
+          "subjects": ["Physics", "Mathematics", "Optional Subject"]
+        },
+        "reserved": {
+          "percentage": "40%",
+          "category": "SC/ST/OBC from Karnataka",
+          "subjects": ["Physics", "Mathematics", "Optional Subject"]
+        }
+      }
+    },
+    "entrance_exams": {
+      "primary": {
+        "name": "Karnataka CET",
+        "conducting_body": "Karnataka Examination Authority",
+        "website": "https://cetonline.karnataka.gov.in"
+      },
+      "alternative": {
+        "name": "COMEDK UGET",
+        "conducting_body": "Consortium of Medical, Engineering and Dental Colleges of Karnataka",
+        "website": "https://www.comedk.org"
+      }
+    },
+    "documents_required": [
+      "10th Standard Marks Card",
+      "12th Standard Marks Card",
+      "Entrance Exam Score Card (CET/COMEDK)",
+      "Transfer Certificate",
+      "Migration Certificate (if applicable)",
+      "Caste Certificate (if applicable)",
+      "Income Certificate (if applicable)",
+      "Domicile Certificate (if applicable)",
+      "Aadhar Card",
+      "Passport Size Photographs"
+    ],
+    "admission_process": {
+      "steps": [
+        "Qualify in 12th standard with required subjects and minimum marks",
+        "Appear for CET or COMEDK entrance examination",
+        "Register for counseling process",
+        "Document verification",
+        "Seat selection based on merit and category",
+        "Fee payment",
+        "Admission confirmation"
+      ],
+      "important_notes": [
+        "Admissions are strictly merit-based through government counseling",
+        "Separate counseling processes for CET and COMEDK",
+        "Original documents verification is mandatory",
+        "Admission is subject to verification of all documents"
+      ]
+    },
+    "contact": {
+      "admission_office": "admissions@dsce.edu.in",
+      "phone": "+91-80-42161761",
+      "website": "https://www.dsce.edu.in/admissions"
+    }
+  },
+  "faculty": {
+    "hod": {
+      "name": "Dr. Vindhya P Malagi",
+      "position": "Professor and Head of Department",
+      "qualifications": ["B.E", "M.Tech", "Ph.D"],
+      "contact": "hod-ai@dayanandasagar.edu",
+      "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/Dr_Vindhya.pdf"
+    },
+    "members": [
+      {
+        "name": "Dr. Aruna M G",
+        "position": "Associate Professor",
+        "qualifications": ["B.E", "M.Tech", "Ph.D"],
+        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/Aruna.pdf"
+      },
+      {
+        "name": "Dr. Reshma S",
+        "position": "Associate Professor",
+        "qualifications": ["B.E", "M.Tech", "Ph.D"],
+        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/DrReshma.pdf"
+      },
+      {
+        "name": "Rashmi K",
+        "position": "Assistant Professor",
+        "qualifications": ["B.E", "M.Tech"],
+        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/Rashmi.pdf"
+      },
+      {
+        "name": "Kavya D N",
+        "position": "Assistant Professor",
+        "qualifications": ["B.E", "M.Tech"],
+        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/KavyaD.pdf"
+      },
+      {
+        "name": "Ramya K",
+        "position": "Assistant Professor",
+        "qualifications": ["B.E", "M.Tech"],
+        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/RamyaK.pdf"
+      },
+      {
+        "name": "Asha K",
+        "position": "Assistant Professor",
+        "qualifications": ["B.E", "M.Tech"],
+        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/AshaK.pdf"
+      },
+      {
+        "name": "Dr. Archudha A",
+        "position": "Assistant Professor",
+        "qualifications": ["B.E", "M.Tech", "Ph.D"],
+        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/DrArchudha.pdf"
+      },
+      {
+        "name": "Ensteih Silvia",
+        "position": "Assistant Professor",
+        "qualifications": ["B.E", "M.Tech"],
+        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/Silvia.pdf"
+      },
+      {
+        "name": "Deepshree Buchade",
+        "position": "Assistant Professor",
+        "qualifications": ["B.E", "M.Tech"],
+        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/Deepshree.pdf"
+      },
+      {
+        "name": "Anupama Vijaykumar",
+        "position": "Assistant Professor",
+        "qualifications": ["B.E", "M.Tech(Ph.D)"],
+        "profile": "https://www.dsce.edu.in/images/ai_ml/faculty/Anupama.pdf"
+      }
+    ],
+    "instructors": [
+      {
+        "name": "Kumar",
+        "position": "Lab Instructor",
+        "qualifications": ["Diploma (CSE)"]
+      },
+      {
+        "name": "Chithra Shree H C",
+        "position": "Lab Instructor",
+        "qualifications": ["Diploma (CSE)", "BCA"]
+      },
+      {
+        "name": "Shashikala N",
+        "position": "Programmer",
+        "qualifications": ["B.E (ECE)"]
+      }
+    ]
+  },
+  "industry_collaboration": {
+    "description": "A vital part of professional education, helping students prepare for their careers and gain practical experience.",
+    "activities": [
+      "Industry experts in the curriculum",
+      "Industry visits",
+      "Internships",
+      "Mentoring",
+      "Seminars and guest lectures",
+      "Career advice",
+      "Industrial training",
+      "Final year projects"
+    ],
+    "documentation": {
+      "mou_link": "https://www.dsce.edu.in/images/ai_ml/mou/Mouaudit.pdf"
+    }
+  },
+  "links": {
+    "news_and_events": "https://www.dsce.edu.in/ai-ml/aiml-news",
+    "placements": {
+      "department": "https://www.dsce.edu.in/ai-ml/aiml-placement",
+      "institute": "https://www.dsce.edu.in/placements"
+    }
+  },
+  "program": {
+    "name": "B.E. in Artificial Intelligence and Machine Learning",
+    "duration": "4 years",
+    "description": "A comprehensive program designed for ambitious students eager to embark on a fulfilling career in AI & ML",
+    "outcomes": {
+      "PSO1": "Graduates will be adept in programming and problem solving skills for developing and managing software",
+      "PSO2": "Graduates will be able to identify, formulate, predict and solve real world problems using AI & ML principles",
+      "PSO3": "Graduates will be proficient in efficiently managing computer system resources using cloud computing technologies"
+    }
+  },
+  "curriculum": {
+    "learning_path": {
+      "languages": ["C", "Java", "Python", "R"],
+      "tools_frameworks": [
+        "Scikit Learn",
+        "TensorFlow",
+        "PyTorch",
+        "NLTK",
+        "Spark",
+        "Auto ML",
+        "H2O"
+      ],
+      "core_tracks": {
+        "basic_engineering": [
+          "Mathematics Foundation",
+          "Computer Science Foundation",
+          "Cloud Computing",
+          "Big Data Analytics"
+        ],
+        "ai_ml": [
+          "AI & ML Foundation",
+          "Deep Learning",
+          "Text Processing",
+          "Image & Video Processing"
+        ]
+      }
+    }
+  }
+}
